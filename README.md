@@ -8,5 +8,5 @@ IR_RF.ino = Arduino Project
 - Install ATtiny support to Arduino: https://digistump.com/wiki/digispark/tutorials/connecting
 
 ![My image](https://raw.githubusercontent.com/Eistee82/ATtiny85_IR2RF433/master/IR_RF.jpg)
-![My image](https://raw.githubusercontent.com/Eistee82/ATtiny85_IR2RF433/master/hole circuit board.png)
+![My image](https://raw.githubusercontent.com/Eistee82/ATtiny85_IR2RF433/master/hole%20circuit%20board.png)
 ![My image](https://raw.githubusercontent.com/Eistee82/ATtiny85_IR2RF433/master/case.jpg)
