@@ -1,7 +1,6 @@
 # ATtiny85_IR2RF433
-
-[![Join the chat at https://gitter.im/ATtiny85_IR2RF433/Lobby](https://badges.gitter.im/ATtiny85_IR2RF433/Lobby.svg)](https://gitter.im/ATtiny85_IR2RF433/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 IR reciver &amp; RF 433MHz sender with an ATtiny85 for homeautomation
+[![Join the chat at https://gitter.im/ATtiny85_IR2RF433/Lobby](https://badges.gitter.im/ATtiny85_IR2RF433/Lobby.svg)](https://gitter.im/ATtiny85_IR2RF433/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 I'm using an Digispark ATtiny85 with an micro USB port.
 
